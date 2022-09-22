@@ -1,0 +1,24 @@
+body{
+    background-color: lightcyan;
+}
+
+h1 {
+    color: black;
+
+    background-color: aqua;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    font-size: 36pt;
+}
+
+p {
+    color: rgb(1, 4, 10);
+
+    font-family: sans-serif;
+
+    font-size: 13pt;
+
+
+    text-align: center;
+}
